@@ -1,0 +1,24 @@
+my-react-app/
+├── src/
+│   ├── components/
+│   │   ├── Component1/
+│   │   │   ├── index.tsx
+│   │   │   ├── styles.css
+│   │   ├── Component2/
+│   │   │   ├── index.tsx
+│   │   │   ├── styles.css
+│   ├── pages/
+│   │   ├── Home/
+│   │   │   ├── index.tsx
+│   │   │   ├── styles.css
+│   │   ├── About/
+│   │   │   ├── index.tsx
+│   │   │   ├── styles.css
+│   ├── App.tsx
+│   ├── index.tsx
+├── public/
+│   ├── index.html
+│   ├── ...
+├── tsconfig.json
+├── package.json
+├── ...
