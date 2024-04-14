@@ -6,6 +6,6 @@
 
 ### For a React project with TypeScript, a typical directory structure can be organized as shown below:
 
-![React project structure](image/my-react-app.png)
+![Example project structure](./image/tree.png)
 
 #
